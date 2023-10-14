@@ -1,0 +1,29 @@
+h1 {
+  display: flex;
+}
+.box1 {
+  width: 100px;
+  border: 2px black solid;
+  height: 100px;
+  margin: 4px;
+}
+#grey {
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+}
+#white {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+#blue {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+#yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
