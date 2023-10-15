@@ -18,6 +18,9 @@ buttons.forEach((button) => {
     if (e.target.id === 'yellow') {
       body.style.backgroundColor = e.target.id = 'yellow';
     }
+    if (e.target.id === 'red') {
+      body.style.backgroundColor = e.target.id = 'red';
+    }
   });
 });
 //  ********** two way to solve this problem***********
